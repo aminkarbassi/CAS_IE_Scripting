@@ -9,6 +9,6 @@ To better understand the risk of hail damage to vehicles in Switzerland, this pr
 ## Datasets
 Dataset 1:	https://data.geo.admin.ch/ch.meteoschweiz.klima/hageltage/Swiss-hail-climatology_haildays.zip
 
-Dataset 2: 	https://data.geo.admin.ch/ch.meteoschweiz.klima/hagelkorngroessen/Swiss-hail-climatology_hailsize.zip
+Dataset 2: 	https://data.geo.admin.ch/ch.swisstopo.swissboundaries3d/swissboundaries3d_2023-01/swissboundaries3d_2023-01_2056_5728.shp.zip
 
 Dataset 3:	https://dam-api.bfs.admin.ch/hub/api/dam/assets/24105795/master
